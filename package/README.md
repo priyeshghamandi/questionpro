@@ -1,6 +1,6 @@
 # Usage
 
-```
+```js
 const questionpro = require('questionpro')
  
 const apiKey = '<<Your QuestionPro API Key>>';
