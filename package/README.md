@@ -1,4 +1,4 @@
-# QuestionPro
+# Usage
 
 ```
 const questionpro = require('questionpro')
