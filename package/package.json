@@ -1,6 +1,6 @@
 {
   "name": "questionpro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "QuestionPro API v2 wrapper",
   "main": "index.js",
   "scripts": {
